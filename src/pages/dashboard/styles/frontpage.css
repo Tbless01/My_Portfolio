@@ -549,56 +549,8 @@ button:hover {
 
 
 
-/* 
-.nav-links {
-  display: none;
-}
 
-.menu-toggle {
-  cursor: pointer;
-  font-size: 1.5rem;
-  padding: 0.5rem;
-  color: #fff;
-}
 
-@media (max-width: 320px) {
-  .menu-toggle {
-    display: block;
-  }
-
-  .nav-links.active {
-    display: block;
-  }
-}
-
-@media (max-width: 480px) {
-  .menu-toggle {
-    display: block;
-  }
-
-  .nav-links.active {
-    display: block;
-  }
-}
-@media (min-width: 481px) and (max-width: 768px) {
-  .menu-toggle {
-    display: block;
-  }
-
-  .nav-links.active {
-    display: block;
-  }
-}
-
-@media (min-width: 769px) and (max-width: 1024px) { 
-}
- 
-@media (min-width: 1025px) and (max-width: 1200px) {
-}
-
-@media (min-width: 1201px) and (max-width: 1440px) {
-  
-} */
 
 body {
   font-family: Arial, sans-serif;
